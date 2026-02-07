@@ -60,28 +60,28 @@ Built for hackathons, scalability, and real-world civic impact.
 
 ### How to run Backend
 
-cd backend
-pip install -r requirements.txt
-python -m uvicorn app.main:app --reload
+- cd backend
+- pip install -r requirements.txt
+- python -m uvicorn app.main:app --reload
 
 ### How to run Frontend
 
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 ### How to run Dashboard
 
-cd dashboard
-npm install
-npm run dev
+- cd dashboard
+- npm install
+- npm run dev
 
 ### Test Credentials
 
-Admin:
-email: admin@civicpulse.com
-password: admin123
+- Admin:
+- email: admin@civicpulse.com
+- password: admin123
 
-Department:
-email: electricity@civicpulse.com
-password: dept123
+- Department:
+- email: electricity@civicpulse.com
+- password: department123
